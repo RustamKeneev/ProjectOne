@@ -1,1 +1,1 @@
-# proectOne
+# ProjectOne
